@@ -4,3 +4,6 @@ source;share/ROB_599_Project/hook/pythonpath.sh
 source;share/ROB_599_Project/hook/ament_prefix_path.ps1
 source;share/ROB_599_Project/hook/ament_prefix_path.dsv
 source;share/ROB_599_Project/hook/ament_prefix_path.sh
+source;../../build/ROB_599_Project/share/ROB_599_Project/hook/pythonpath_develop.ps1
+source;../../build/ROB_599_Project/share/ROB_599_Project/hook/pythonpath_develop.dsv
+source;../../build/ROB_599_Project/share/ROB_599_Project/hook/pythonpath_develop.sh

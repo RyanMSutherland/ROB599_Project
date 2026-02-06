@@ -1,0 +1,19 @@
+[0.614s] Invoking command in '/home/ubuntu/ROB599_Project/build/ROB_599_Project': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ubuntu/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data --force
+[0.876s] running develop
+[1.011s] running egg_info
+[1.024s] writing ROB_599_Project.egg-info/PKG-INFO
+[1.024s] writing dependency_links to ROB_599_Project.egg-info/dependency_links.txt
+[1.024s] writing requirements to ROB_599_Project.egg-info/requires.txt
+[1.024s] writing top-level names to ROB_599_Project.egg-info/top_level.txt
+[1.050s] reading manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[1.051s] writing manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[1.066s] running build_ext
+[1.066s] Creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB-599-Project.egg-link (link to .)
+[1.066s] 
+[1.066s] Installed /home/ubuntu/ROB599_Project/build/ROB_599_Project
+[1.066s] running symlink_data
+[1.067s] symbolically linking /home/ubuntu/ROB599_Project/build/ROB_599_Project/resource/ROB_599_Project -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index/packages
+[1.067s] symbolically linking /home/ubuntu/ROB599_Project/build/ROB_599_Project/package.xml -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project
+[1.067s] creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/launch
+[1.067s] creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/worlds
+[1.088s] Invoked command in '/home/ubuntu/ROB599_Project/build/ROB_599_Project' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ubuntu/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data --force

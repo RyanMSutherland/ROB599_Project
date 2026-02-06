@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing ROB_599_Project.egg-info/PKG-INFO
+writing dependency_links to ROB_599_Project.egg-info/dependency_links.txt
+writing requirements to ROB_599_Project.egg-info/requires.txt
+writing top-level names to ROB_599_Project.egg-info/top_level.txt
+reading manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+writing manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB-599-Project.egg-link (link to .)
+
+Installed /home/ubuntu/ROB599_Project/build/ROB_599_Project
+running symlink_data
+symbolically linking /home/ubuntu/ROB599_Project/build/ROB_599_Project/resource/ROB_599_Project -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/ROB599_Project/build/ROB_599_Project/package.xml -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project
+creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/launch
+creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/worlds
