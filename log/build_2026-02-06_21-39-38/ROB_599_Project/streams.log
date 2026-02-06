@@ -1,0 +1,33 @@
+[0.626s] Invoking command in '/home/ubuntu/ROB599_Project/src/ROB_599_Project': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ubuntu/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ROB_599_Project build --build-base /home/ubuntu/ROB599_Project/build/ROB_599_Project/build install --record /home/ubuntu/ROB599_Project/build/ROB_599_Project/install.log --single-version-externally-managed install_data
+[0.813s] running egg_info
+[0.813s] creating ../../build/ROB_599_Project/ROB_599_Project.egg-info
+[0.830s] writing ../../build/ROB_599_Project/ROB_599_Project.egg-info/PKG-INFO
+[0.831s] writing dependency_links to ../../build/ROB_599_Project/ROB_599_Project.egg-info/dependency_links.txt
+[0.831s] writing requirements to ../../build/ROB_599_Project/ROB_599_Project.egg-info/requires.txt
+[0.831s] writing top-level names to ../../build/ROB_599_Project/ROB_599_Project.egg-info/top_level.txt
+[0.831s] writing manifest file '../../build/ROB_599_Project/ROB_599_Project.egg-info/SOURCES.txt'
+[0.862s] reading manifest file '../../build/ROB_599_Project/ROB_599_Project.egg-info/SOURCES.txt'
+[0.862s] adding license file 'LICENSE'
+[0.863s] writing manifest file '../../build/ROB_599_Project/ROB_599_Project.egg-info/SOURCES.txt'
+[0.863s] running build
+[0.863s] running build_py
+[0.863s] creating /home/ubuntu/ROB599_Project/build/ROB_599_Project/build
+[0.863s] creating /home/ubuntu/ROB599_Project/build/ROB_599_Project/build/lib
+[0.863s] creating /home/ubuntu/ROB599_Project/build/ROB_599_Project/build/lib/ROB_599_Project
+[0.863s] copying ROB_599_Project/__init__.py -> /home/ubuntu/ROB599_Project/build/ROB_599_Project/build/lib/ROB_599_Project
+[0.863s] running install
+[0.868s] running install_lib
+[0.882s] creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB_599_Project
+[0.883s] copying /home/ubuntu/ROB599_Project/build/ROB_599_Project/build/lib/ROB_599_Project/__init__.py -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB_599_Project
+[0.883s] byte-compiling /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB_599_Project/__init__.py to __init__.cpython-312.pyc
+[0.883s] running install_data
+[0.884s] creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index
+[0.884s] creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index
+[0.884s] creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index/packages
+[0.884s] copying resource/ROB_599_Project -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index/packages
+[0.884s] copying package.xml -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project
+[0.884s] running install_egg_info
+[0.906s] Copying ../../build/ROB_599_Project/ROB_599_Project.egg-info to /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB_599_Project-0.0.0-py3.12.egg-info
+[0.907s] running install_scripts
+[0.999s] writing list of installed files to '/home/ubuntu/ROB599_Project/build/ROB_599_Project/install.log'
+[1.023s] Invoked command in '/home/ubuntu/ROB599_Project/src/ROB_599_Project' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ubuntu/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ROB_599_Project build --build-base /home/ubuntu/ROB599_Project/build/ROB_599_Project/build install --record /home/ubuntu/ROB599_Project/build/ROB_599_Project/install.log --single-version-externally-managed install_data

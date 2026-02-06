@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/ROB_599_Project/ROB_599_Project.egg-info
+writing ../../build/ROB_599_Project/ROB_599_Project.egg-info/PKG-INFO
+writing dependency_links to ../../build/ROB_599_Project/ROB_599_Project.egg-info/dependency_links.txt
+writing requirements to ../../build/ROB_599_Project/ROB_599_Project.egg-info/requires.txt
+writing top-level names to ../../build/ROB_599_Project/ROB_599_Project.egg-info/top_level.txt
+writing manifest file '../../build/ROB_599_Project/ROB_599_Project.egg-info/SOURCES.txt'
+reading manifest file '../../build/ROB_599_Project/ROB_599_Project.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ROB_599_Project/ROB_599_Project.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ROB599_Project/build/ROB_599_Project/build
+creating /home/ubuntu/ROB599_Project/build/ROB_599_Project/build/lib
+creating /home/ubuntu/ROB599_Project/build/ROB_599_Project/build/lib/ROB_599_Project
+copying ROB_599_Project/__init__.py -> /home/ubuntu/ROB599_Project/build/ROB_599_Project/build/lib/ROB_599_Project
+running install
+running install_lib
+creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB_599_Project
+copying /home/ubuntu/ROB599_Project/build/ROB_599_Project/build/lib/ROB_599_Project/__init__.py -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB_599_Project
+byte-compiling /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB_599_Project/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index
+creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index
+creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index/packages
+copying resource/ROB_599_Project -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project
+running install_egg_info
+Copying ../../build/ROB_599_Project/ROB_599_Project.egg-info to /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB_599_Project-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/ubuntu/ROB599_Project/build/ROB_599_Project/install.log'
