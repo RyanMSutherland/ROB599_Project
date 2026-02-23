@@ -28,6 +28,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            "move_pedestrian.py = ROB_599_Project.move_pedestrian:main"
         ],
     },
 )

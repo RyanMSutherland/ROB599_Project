@@ -1,0 +1,17 @@
+[0.532s] Invoking command in '/home/ubuntu/ROB599_Project/build/ROB_599_Project': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ubuntu/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data
+[0.882s] running develop
+[1.004s] running egg_info
+[1.016s] writing ROB_599_Project.egg-info/PKG-INFO
+[1.016s] writing dependency_links to ROB_599_Project.egg-info/dependency_links.txt
+[1.017s] writing entry points to ROB_599_Project.egg-info/entry_points.txt
+[1.017s] writing requirements to ROB_599_Project.egg-info/requires.txt
+[1.017s] writing top-level names to ROB_599_Project.egg-info/top_level.txt
+[1.040s] reading manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[1.041s] writing manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[1.053s] running build_ext
+[1.053s] Creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB-599-Project.egg-link (link to .)
+[1.054s] Installing move_pedestrian.py script to /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/ROB_599_Project
+[1.054s] 
+[1.054s] Installed /home/ubuntu/ROB599_Project/build/ROB_599_Project
+[1.054s] running symlink_data
+[1.081s] Invoked command in '/home/ubuntu/ROB599_Project/build/ROB_599_Project' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ubuntu/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data

@@ -1,0 +1,18 @@
+[0.518s] Invoking command in '/home/ubuntu/ROB599_Project/build/ROB_599_Project': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ubuntu/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data
+[0.719s] running develop
+[0.829s] running egg_info
+[0.838s] writing ROB_599_Project.egg-info/PKG-INFO
+[0.838s] writing dependency_links to ROB_599_Project.egg-info/dependency_links.txt
+[0.838s] writing requirements to ROB_599_Project.egg-info/requires.txt
+[0.839s] writing top-level names to ROB_599_Project.egg-info/top_level.txt
+[0.863s] reading manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[0.864s] writing manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[0.875s] running build_ext
+[0.875s] Creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB-599-Project.egg-link (link to .)
+[0.875s] 
+[0.875s] Installed /home/ubuntu/ROB599_Project/build/ROB_599_Project
+[0.875s] running symlink_data
+[0.875s] creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/launch
+[0.876s] creating /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/worlds
+[0.876s] symbolically linking /home/ubuntu/ROB599_Project/build/ROB_599_Project/worlds/simple_world.world -> /home/ubuntu/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/worlds
+[0.895s] Invoked command in '/home/ubuntu/ROB599_Project/build/ROB_599_Project' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ubuntu/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data

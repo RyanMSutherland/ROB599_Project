@@ -8,10 +8,13 @@ setup.py
 ../../build/ROB_599_Project/ROB_599_Project.egg-info/top_level.txt
 ../../build/ROB_599_Project/ROB_599_Project.egg-info/zip-safe
 ROB_599_Project/__init__.py
+ROB_599_Project/move_pedestrian.py
 ROB_599_Project.egg-info/PKG-INFO
 ROB_599_Project.egg-info/SOURCES.txt
 ROB_599_Project.egg-info/dependency_links.txt
+ROB_599_Project.egg-info/entry_points.txt
 ROB_599_Project.egg-info/requires.txt
 ROB_599_Project.egg-info/top_level.txt
 ROB_599_Project.egg-info/zip-safe
 resource/ROB_599_Project
+worlds/simple_world.world
