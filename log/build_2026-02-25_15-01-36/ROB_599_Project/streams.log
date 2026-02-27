@@ -1,0 +1,27 @@
+[0.431s] Invoking command in '/home/daq/ROB599_Project/build/ROB_599_Project': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/daq/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daq/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/daq/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data
+[0.700s] running develop
+[0.700s] running egg_info
+[0.700s] creating ROB_599_Project.egg-info
+[0.700s] writing ROB_599_Project.egg-info/PKG-INFO
+[0.700s] writing dependency_links to ROB_599_Project.egg-info/dependency_links.txt
+[0.700s] writing entry points to ROB_599_Project.egg-info/entry_points.txt
+[0.700s] writing requirements to ROB_599_Project.egg-info/requires.txt
+[0.700s] writing top-level names to ROB_599_Project.egg-info/top_level.txt
+[0.700s] writing manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[0.700s] reading manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[0.700s] writing manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[0.713s] running build_ext
+[0.713s] Creating /home/daq/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB-599-Project.egg-link (link to .)
+[0.713s] Installing move_pedestrian.py script to /home/daq/ROB599_Project/install/ROB_599_Project/lib/ROB_599_Project
+[0.714s] 
+[0.714s] Installed /home/daq/ROB599_Project/build/ROB_599_Project
+[0.714s] running symlink_data
+[0.714s] creating /home/daq/ROB599_Project/install/ROB_599_Project/share/ament_index
+[0.714s] creating /home/daq/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index
+[0.714s] creating /home/daq/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index/packages
+[0.714s] symbolically linking /home/daq/ROB599_Project/build/ROB_599_Project/resource/ROB_599_Project -> /home/daq/ROB599_Project/install/ROB_599_Project/share/ament_index/resource_index/packages
+[0.714s] symbolically linking /home/daq/ROB599_Project/build/ROB_599_Project/package.xml -> /home/daq/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project
+[0.714s] creating /home/daq/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/launch
+[0.714s] creating /home/daq/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/worlds
+[0.714s] symbolically linking /home/daq/ROB599_Project/build/ROB_599_Project/worlds/simple_world.world -> /home/daq/ROB599_Project/install/ROB_599_Project/share/ROB_599_Project/worlds
+[0.733s] Invoked command in '/home/daq/ROB599_Project/build/ROB_599_Project' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/daq/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daq/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/daq/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data

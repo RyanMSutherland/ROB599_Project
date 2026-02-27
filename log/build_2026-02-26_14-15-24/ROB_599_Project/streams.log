@@ -1,0 +1,19 @@
+[0.505s] Invoking command in '/home/daq/ROB599_Project/build/ROB_599_Project': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/daq/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daq/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/daq/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data
+[0.720s] running develop
+[0.831s] running egg_info
+[0.852s] writing ROB_599_Project.egg-info/PKG-INFO
+[0.852s] writing dependency_links to ROB_599_Project.egg-info/dependency_links.txt
+[0.853s] writing entry points to ROB_599_Project.egg-info/entry_points.txt
+[0.853s] writing requirements to ROB_599_Project.egg-info/requires.txt
+[0.853s] writing top-level names to ROB_599_Project.egg-info/top_level.txt
+[0.884s] reading manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[0.884s] writing manifest file 'ROB_599_Project.egg-info/SOURCES.txt'
+[0.897s] running build_ext
+[0.897s] Creating /home/daq/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages/ROB-599-Project.egg-link (link to .)
+[0.898s] Installing find_dynamic.py script to /home/daq/ROB599_Project/install/ROB_599_Project/lib/ROB_599_Project
+[0.899s] Installing mapping.py script to /home/daq/ROB599_Project/install/ROB_599_Project/lib/ROB_599_Project
+[0.900s] Installing move_pedestrian.py script to /home/daq/ROB599_Project/install/ROB_599_Project/lib/ROB_599_Project
+[0.900s] 
+[0.900s] Installed /home/daq/ROB599_Project/build/ROB_599_Project
+[0.900s] running symlink_data
+[0.922s] Invoked command in '/home/daq/ROB599_Project/build/ROB_599_Project' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/daq/ROB599_Project/build/ROB_599_Project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daq/ROB599_Project/install/ROB_599_Project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/daq/ROB599_Project/build/ROB_599_Project/build --no-deps symlink_data

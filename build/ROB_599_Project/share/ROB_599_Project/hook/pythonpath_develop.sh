@@ -1,3 +1,3 @@
 # generated from colcon_core/shell/template/hook_prepend_value.sh.em
 
-_colcon_prepend_unique_value PYTHONPATH "/home/ubuntu/ROB599_Project/build/ROB_599_Project"
+_colcon_prepend_unique_value PYTHONPATH "/home/daq/ROB599_Project/build/ROB_599_Project"

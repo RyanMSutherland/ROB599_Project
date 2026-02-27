@@ -28,7 +28,9 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            "move_pedestrian.py = ROB_599_Project.move_pedestrian:main"
+            "move_pedestrian.py = ROB_599_Project.move_pedestrian:main",
+            "mapping.py = ROB_599_Project.mapping:main",
+            "find_dynamic.py = ROB_599_Project.find_dynamic:main"
         ],
     },
 )
