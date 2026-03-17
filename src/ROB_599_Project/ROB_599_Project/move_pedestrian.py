@@ -13,19 +13,19 @@ class PedestrianControl(Node):
     def __init__(self):
         super().__init__('pedestrianControl')
 
-        self.publisher_0 = self.create_publisher(Twist, '/pedo_0/cmd_vel', 10)
-        self.odom_sub_0 = self.create_subscription(Odometry, '/pedo_0/odom', self.update_location, 10)
+        self.publisher_0 = self.create_publisher(Twist, '/pedo/cmd_vel', 10)
+        self.odom_sub_0 = self.create_subscription(Odometry, '/pedo/odom', self.update_location, 10)
 
-        self.publisher_1 = self.create_publisher(Twist, '/pedo_1/cmd_vel', 10)
-        self.odom_sub_1 = self.create_subscription(Odometry, '/pedo_1/odom', self.update_location, 10)
+        # self.publisher_1 = self.create_publisher(Twist, '/pedo_1/cmd_vel', 10)
+        # self.odom_sub_1 = self.create_subscription(Odometry, '/pedo_1/odom', self.update_location, 10)
 
     def update_location(self, msg):
         move = Twist()
-        move.linear.x = 0.5
-        move.linear.y = 0.5
+        move.linear.x = -0.5
+        move.linear.y = 0.0
 
         self.publisher_0.publish(move)
-        self.publisher_1.publish(move)
+        # self.publisher_1.publish(move)
 
 def main(args = None):
     rclpy.init(args = args)

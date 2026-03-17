@@ -3,6 +3,7 @@ setup.cfg
 setup.py
 ROB_599_Project/__init__.py
 ROB_599_Project/find_dynamic.py
+ROB_599_Project/find_dynamic_2.py
 ROB_599_Project/mapping.py
 ROB_599_Project/move_pedestrian.py
 ROB_599_Project.egg-info/PKG-INFO

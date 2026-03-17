@@ -1,4 +1,5 @@
 [console_scripts]
+find_dyanmic_2.py = ROB_599_Project.find_dynamic_2:main
 find_dynamic.py = ROB_599_Project.find_dynamic:main
 mapping.py = ROB_599_Project.mapping:main
 move_pedestrian.py = ROB_599_Project.move_pedestrian:main
